@@ -11,16 +11,18 @@
 
 # 画面遷移
 ## ユーザー画面
-1. [ランディングページ: localhost:8080/intro.php](http://localhost:8080/intro.php)
-2. [エージェント企業選択画面: localhost:8080/index.php](http://localhost:8080/index.php)
-<img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/09bd5210-5369-44ae-9805-6424208e98f3">
+1. ランディングページ: localhost:8080/intro.php
+
+2. エージェント企業選択画面: localhost:8080/index.php
+<img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/c5535ad3-605e-456b-a031-36d090b4f6a1">
 
 <details>
 
 <summary>実装した機能</summary>
 
-- aa
-- bb
+- カート機能
+- 絞り込み機能（総合型or特化型）
+- 並び替え機能
 
 </details>
 
