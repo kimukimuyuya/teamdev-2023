@@ -1,10 +1,16 @@
 # teamdev-2023
+## 環境構築手順
 
-## 環境構築
-- mainブランチでdocker compose up -d --buildを実行
+  1. mainブランチで以下を実行
+  ```
+  docker compose up -d --build
+  ```
+  2. tailwindが効いていない場合はターミナルで以下を実行
+  ```
+  npm run dev
+  ```
 
-## tailwind反映
-- ターミナルでnpm run devを実行
+
 
 ## 画面遷移手順
 ### ユーザー画面
