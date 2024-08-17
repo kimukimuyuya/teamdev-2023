@@ -53,21 +53,62 @@
 </details>
 
 
-## 管理者画面((WEBサイト自体の管理者画面)
+## 管理者画面(WEBサイト自体の管理者画面)
 1. ログイン画面: localhost:8080/auth/login.php
 ```
 ログインメールアドレス: boozer@gmail.com
 パスワード: password
 ```
-2. 新規登録ボタンからエージェントを登録
-3. localhost:8025でメールの受信を確認
+2. 管理者画面
+
+<img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/3ab0122e-41ca-4e4b-aee4-1aa02941400c">
+
+<details>
+
+<summary>実装した機能</summary>
+
+- 就活エージェント企業の新規登録
+
+<img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/573c7b1b-f3c4-47c2-90ae-788180870e4e">
+
+- 詳細画面
+  - その企業にどの学生が申し込んでいるのか
+- 更新
+- 削除
+
+</details>
 
 ## 管理者画面(就活エージェント企業側の管理者画面)
 
-- client(就活エージェント企業側の管理者画面)
-1. boozerから届いたメールを確認
-2. URLをクリックしてパスワードを登録
-3. ログイン画面よりログイン
+1. ログイン画面: localhost:8080/auth/login.php
+
+```
+サービス名: Meets Company
+email: meetscompany@gmail.com
+password: meetscompany
+
+サービス名: キャリアチケット
+email: careerticket@gmail.com
+password: careerticket
+
+サービス名: リクナビ
+email: rikunabi@gmail.com
+password: rikunabi
+
+サービス名: マイナビ新卒紹介
+email: mainabi@gmail.com
+password: mainabi
+
+サービス名: アスリートエージェント
+email: athleteagent@gmail.com
+password: athleteagent
+
+サービス名: レバテック
+email: rebateck@gmail.com
+password: rebateck
+```
+3. URLをクリックしてパスワードを登録
+4. ログイン画面よりログイン
 
 ## レスポンシブ対応
 レスポンシブ対応はスマートフォン画面のみ対応しています
