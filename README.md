@@ -10,8 +10,6 @@
   npm run dev
   ```
 
-
-
 ## 画面遷移手順
 ### ユーザー画面
 1. localhost:8080/intro.phpに遷移
