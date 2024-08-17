@@ -23,6 +23,11 @@
 - カート機能
 - 絞り込み機能（総合型or特化型）
 - 並び替え機能
+- 詳細画面
+
+<img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/b157a6ed-c59a-4684-82a8-6516bc399922">
+
+- レスポンシブ対応
 
 </details>
 
@@ -35,6 +40,7 @@
 
 - 申し込んだ企業が自動入力される
 - バリデーション機能
+- レスポンシブ対応
 
 </details>
 
@@ -107,8 +113,19 @@ password: athleteagent
 email: rebateck@gmail.com
 password: rebateck
 ```
-3. URLをクリックしてパスワードを登録
-4. ログイン画面よりログイン
 
-## レスポンシブ対応
-レスポンシブ対応はスマートフォン画面のみ対応しています
+2. 管理者画面
+
+<img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/a82ecd8b-ffc1-4277-a0f1-545912adc72a">
+
+<details>
+
+<summary>実装した機能</summary>
+
+- 申請した学生一覧の表示
+- 学生詳細画面
+- CSVダウンロード機能
+
+</details>
+
+
