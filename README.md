@@ -38,12 +38,31 @@
 
 </details>
 
+4.メールの受信: localhost:8025
 
-## 管理者画面
-- boozer(WEBサイト自体の管理者画面)
-1. localhost:8080/boozer/index.phpに遷移（ログインメールアドレス: boozer@gmail.com, パスワード: password）
+<img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/9cc02956-bee1-4a6f-b4b2-d556e6d1ab1e">
+
+<details>
+
+<summary>実装した機能</summary>
+
+- mailhogを利用して仮想的にメールを送信する
+  - ユーザーに申し込み完了メールの送信
+  - 就活エージェント企業に、学生が申請したことを知らせるメールを送信
+
+</details>
+
+
+## 管理者画面((WEBサイト自体の管理者画面)
+1. ログイン画面: localhost:8080/auth/login.php
+```
+ログインメールアドレス: boozer@gmail.com
+パスワード: password
+```
 2. 新規登録ボタンからエージェントを登録
 3. localhost:8025でメールの受信を確認
+
+## 管理者画面(就活エージェント企業側の管理者画面)
 
 - client(就活エージェント企業側の管理者画面)
 1. boozerから届いたメールを確認
