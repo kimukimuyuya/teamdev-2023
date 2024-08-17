@@ -26,6 +26,19 @@
 
 </details>
 
+3. 個人情報入力画面
+<img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/4b191ccf-80a5-467f-805b-14b6d53f5b1a">
+
+<details>
+
+<summary>実装した機能</summary>
+
+- 申し込んだ企業が自動入力される
+- バリデーション機能
+
+</details>
+
+
 ## 管理者画面
 - boozer(WEBサイト自体の管理者画面)
 1. localhost:8080/boozer/index.phpに遷移（ログインメールアドレス: boozer@gmail.com, パスワード: password）
