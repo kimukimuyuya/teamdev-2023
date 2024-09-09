@@ -8,6 +8,8 @@
   ```
   npm run dev
   ```
+# 発表スライド
+https://www.canva.com/design/DAFjou47S_w/SBhJF9tAAqCz_vkTFlUHJQ/edit?utm_content=DAFjou47S_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # 画面遷移
 ## ユーザー画面
