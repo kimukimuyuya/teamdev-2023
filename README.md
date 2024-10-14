@@ -12,10 +12,10 @@
 https://www.canva.com/design/DAFjou47S_w/SBhJF9tAAqCz_vkTFlUHJQ/edit?utm_content=DAFjou47S_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # 画面遷移
-## ユーザー画面
-1. ランディングページ: localhost:8080/intro.php
+## 1 ユーザー画面
+a. ランディングページ: localhost:8080/intro.php
 
-2. エージェント企業選択画面: localhost:8080/index.php
+b. エージェント企業選択画面: localhost:8080/index.php
 <img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/c5535ad3-605e-456b-a031-36d090b4f6a1">
 
 <details>
@@ -33,7 +33,7 @@ https://www.canva.com/design/DAFjou47S_w/SBhJF9tAAqCz_vkTFlUHJQ/edit?utm_content
 
 </details>
 
-3. 個人情報入力画面
+c. 個人情報入力画面
 <img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/4b191ccf-80a5-467f-805b-14b6d53f5b1a">
 
 <details>
@@ -46,7 +46,7 @@ https://www.canva.com/design/DAFjou47S_w/SBhJF9tAAqCz_vkTFlUHJQ/edit?utm_content
 
 </details>
 
-4.メールの受信: localhost:8025
+d.メールの受信: localhost:8025
 
 <img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/9cc02956-bee1-4a6f-b4b2-d556e6d1ab1e">
 
@@ -61,13 +61,13 @@ https://www.canva.com/design/DAFjou47S_w/SBhJF9tAAqCz_vkTFlUHJQ/edit?utm_content
 </details>
 
 
-## 管理者画面(WEBサイト自体の管理者画面)
-1. ログイン画面: localhost:8080/auth/login.php
+## 2 管理者画面(WEBサイト自体の管理者画面)
+a. ログイン画面: localhost:8080/auth/login.php
 ```
 ログインメールアドレス: boozer@gmail.com
 パスワード: password
 ```
-2. 管理者画面
+b. 管理者画面
 
 <img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/3ab0122e-41ca-4e4b-aee4-1aa02941400c">
 
@@ -86,9 +86,9 @@ https://www.canva.com/design/DAFjou47S_w/SBhJF9tAAqCz_vkTFlUHJQ/edit?utm_content
 
 </details>
 
-## 管理者画面(就活エージェント企業側の管理者画面)
+## 3 管理者画面(就活エージェント企業側の管理者画面)
 
-1. ログイン画面: localhost:8080/auth/login.php
+a. ログイン画面: localhost:8080/auth/login.php
 
 ```
 サービス名: Meets Company
@@ -116,7 +116,7 @@ email: rebateck@gmail.com
 password: rebateck
 ```
 
-2. 管理者画面
+b. 管理者画面
 
 <img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/a82ecd8b-ffc1-4277-a0f1-545912adc72a">
 
