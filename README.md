@@ -16,6 +16,7 @@ https://www.canva.com/design/DAFjou47S_w/SBhJF9tAAqCz_vkTFlUHJQ/edit?utm_content
 a. ランディングページ: localhost:8080/intro.php
 
 b. エージェント企業選択画面: localhost:8080/index.php
+
 <img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/c5535ad3-605e-456b-a031-36d090b4f6a1">
 
 <details>
@@ -34,6 +35,7 @@ b. エージェント企業選択画面: localhost:8080/index.php
 </details>
 
 c. 個人情報入力画面
+
 <img width="500" alt="SCR-20230502-nedr" src="https://github.com/user-attachments/assets/4b191ccf-80a5-467f-805b-14b6d53f5b1a">
 
 <details>
